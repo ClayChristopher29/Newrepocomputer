@@ -1,0 +1,54 @@
+
+{
+
+    "employees":[
+        {    "id":1,
+            "name": "Chad Kroger",
+            "departmentId":1,
+            "computerId":2
+        },
+
+        {     "id":2,
+            "name": "Maynard Keenan",
+            "departmentId":2,
+            "computerId":3
+
+        },
+        {      "id":3,
+            "name": "Randy Blythe",
+            "departmentId":2,
+            "computerId":1
+        },
+        {     "id":4,
+            "name": "Johan Hegg",
+            "departmentId":2,
+            "computerId":3
+        }
+    ],
+    "departments":[
+        {
+            "id":1,
+            "name":"Shyte Music"
+        },
+        {
+            "id":2,
+            "name": "Metal"
+        }
+    ],
+    "computers":[{
+        "id":1,
+        "type":"Shredder-X2"
+    },
+    {
+        "id":2,
+        "type":"Lame-O 2k"
+    },
+    {
+       "id":3,
+       "type":"Odin"
+
+    }
+
+
+    ]
+}
